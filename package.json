@@ -1,0 +1,15 @@
+{
+  "name": "kazana-error-example",
+  "version": "1.0.0",
+  "description": "example of an error in kazana",
+  "main": "index.js",
+  "scripts": {
+    "start": "kazana",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kazana": "^7.0.1"
+  }
+}
